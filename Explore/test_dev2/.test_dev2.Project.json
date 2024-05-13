@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "41zkS4dP7kXkZRH2O6XOEz",
+    "name" : "test_dev2",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-13T09:08:07.491Z",
+  "objectRefs" : [ ]
+}
